@@ -68,7 +68,7 @@
         "css/bootstrap.min.css.map": "css/bootstrap.min.css.a2e87599b1de.map",
         "css/font-awesome.css": "css/font-awesome.c223583b49df.css",
         "css/font-awesome.min.css": "css/font-awesome.min.008e0bb5ebfa.css",
-        "css/site.css": "css/site.d7a04844a910.css",
+        "css/site.css": "css/site.67fdda51f6d5.css",
         "fonts/FontAwesome.otf": "fonts/FontAwesome.0d2717cd5d85.otf",
         "fonts/fontawesome-webfont.eot": "fonts/fontawesome-webfont.674f50d287a8.eot",
         "fonts/fontawesome-webfont.eot?v=4.7.0": "fonts/fontawesome-webfont.674f50d287a8.eot?v=4.7.0",
@@ -98,8 +98,9 @@
         "js/parsley.min.js": "js/parsley.min.9423fbd825cc.js",
         "js/parsley.min.js.map": "js/parsley.min.js.5b8729e5acc1.map",
         "js/password-strength.js": "js/password-strength.70c410d81a0c.js",
-        "js/site.js": "js/site.99b043ec732b.js",
+        "js/site.js": "js/site.461860621f96.js",
         "js/zxcvbn.min.js": "js/zxcvbn.min.91785aac00c6.js",
+        "notifications/notify.js": "notifications/notify.a77b5d2fdd2d.js",
         "robots.txt": "robots.f71d20196d4c.txt"
     },
     "version": "1.0"
